@@ -1,0 +1,130 @@
+.body{
+	padding: 0px;
+	margin: 0px;
+}
+.side{
+	display: flex;
+    margin-left: -15px;
+    color: #a493d1;
+	background-color: #180f36;
+	align-items: stretch;
+	opacity: 0.9;
+	position: fixed;
+	height: 100%;
+	min-width: 215px;
+    max-width: 215px;
+}
+.jsslogo{
+	margin-top: 30px;
+}
+.list .fa{
+    text-align: right !important;
+}
+.list i{
+	float: right;
+}
+.list li{
+   list-style: none;
+}
+.list a{
+	text-decoration: none;
+	color:#a493d1; 
+}
+.infologo{
+	margin-top: 40px;
+	height: 72px;
+	width:170px;
+}
+.stay_updated{
+	color: #4d4d4d;
+    font-family: 'Courgette' , cursive;
+    font-size: 18px;
+}
+.welcome a{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+.welcome a:hover{
+	color: #e6c115;
+	text-decoration: none;
+}
+.notice{
+	font-size: 1.5rem;
+	font-weight: 700;
+	font-family: 'Roboto', sans-serif;
+	color:  #2d2251;
+}
+.padding ul{
+	padding-top: 24px;
+	font-size: 1.5rem;
+}
+.padding a{
+	text-decoration: none;
+}
+.padding a:hover{
+	background-color: #cfcfcf;
+}
+.noticelist{
+	color: #4d4d4d;
+}
+.noticedetail{
+	    color: #9d9d9d;
+	    font-weight: 550;
+	    font-family: 'Roboto', sans-serif;
+	    font-size: 1.55rem;
+}
+.horizontal{
+		border-bottom: 1px solid #c5c5c5;
+		margin-top: 20px;
+}
+.bottom_content{
+    background-color: #f9f9f9;
+}
+.newincollege{
+	font-size: 1.5rem;
+	font-weight: 700;
+	font-family: 'Roboto', sans-serif;
+	color:  #2d2251;
+	margin-top: 25px;
+}
+.new_detail{
+	color: #4d4d4d;
+	font-weight: 550;
+	font-size: 1.55rem;
+}
+.new1{
+	color: #9d9d9d;
+    font-weight: 550;
+	font-size: 1.55rem;
+}
+.padding2 ul{
+	padding-top: 24px;
+	font-size: 1.5rem;
+}
+.padding2 a{
+	text-decoration: none;
+}
+.bottom{
+	background-color: #2d2251;
+	height: 100%;
+}
+.bottom_heading{
+	margin-top: 20px;
+	color: white;
+}
+.links a{
+	text-decoration: none;
+	color: #a493d1;
+	font-size: 13px;
+}
+.end a{
+	text-decoration: none;
+	color: #e6c115;
+	padding: 20px;
+	padding-top: 20px;
+	font-size: 11px;
+}
+.end a:hover{
+	color: white;
+}
